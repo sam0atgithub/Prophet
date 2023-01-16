@@ -4,4 +4,4 @@ I use prophet to predict the number of views for a NBA player's wikipedia page. 
 
 Prophet is powerful in handling trends, seasonality, and holiday effects. Other implementations include but not limited to: supply chain management, 1-yr term sales forecast, multiple yr term sales forecast (useful in strategic plannning).
 
-Growth models are also adjustable, in order to handle (dynamic) market size limitation, diminishing marginal benefit, new competitors, etc..
+Growth models are also adjustable, in order to handle (dynamic) market size limitation, diminishing marginal benefit, new competitors, etc.
